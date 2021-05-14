@@ -1,0 +1,4 @@
+Odp 1. methodTwo
+Odp 2. methodOne
+Odp 3. metody "methodFour" nie nadpisują się i nie przysłaniają się, są statyczne, niezależne od siebie.
+methodThree jest przysłaniana przez klasę nadrzędną
